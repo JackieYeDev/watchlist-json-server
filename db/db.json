@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "username": "test",
+      "password": "",
+      "stocks": [
+        "SPY",
+        "AAPL"
+      ],
+      "id": 1
+    }
+  ]
+}
